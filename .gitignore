@@ -3,6 +3,8 @@ MyFile.ext
 
 # File Pattern
 *.ext
+*.log
 
 # Folder
 my-folder/
+log/
